@@ -69,7 +69,7 @@ New Device.
   - **PIN** is the pin entered for Red Green Blue (V0,V1,V2 in this case)
   - **PIN_VALUE** is the value to be entered to the pin (0 or 1)
   
-  **SET VALUES TO ALL THE PINS ie (V0 V1 V2) to 0**
+  - **SET VALUES TO ALL THE PINS ie (V0 V1 V2) to 0**
   
 - **NOW TO CHECK IF THE DATA IS UPDATED**
   https://blynk.cloud/external/api/get?token=**<YOUR_TOKEN>**&**<PIN>**
