@@ -86,10 +86,10 @@ New Device.
 
 ![image](https://github.com/user-attachments/assets/fcc5ce39-bcb2-4166-9a1a-4f98d3d71480)
 
-- REMEMBER: you can only make 2 devices as part of the free plan
+- **REMEMBER: you can only make 2 devices as part of the free plan**
 
 ## Installing Libraries:
-- Open CMD and type the following:
+- **Open CMD and type the following:**
   1. pip install numpy
   2. pip install pyserial
   3. pip install requests
